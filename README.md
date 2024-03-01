@@ -36,26 +36,7 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=pycharm"/>](https://www.jetbrains.com/es-es/pycharm/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
-
 <br>
-
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=porrasadrian&show_icons=true&theme=dark"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-</p>        
-<!--- stats (end) -->
-
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
