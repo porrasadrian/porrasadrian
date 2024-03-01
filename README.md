@@ -1,4 +1,5 @@
-<center>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72222&random=false&width=435&lines=Bienvenidos+a+mi+perfil+de+Github)](https://git.io/typing-svg)</center>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Bienvenidos+a+mi+perfil+++de+Github!;Mi+nombre+es+Adrian+Porras)](https://git.io/typing-svg)
+
 
 <h3 align="center">"El que más sabe, más sufre"</h3>
 <h4 align="center">- Eclesiastés 1:18 -</h4>
