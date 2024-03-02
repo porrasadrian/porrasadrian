@@ -69,7 +69,7 @@ Con una actitud proactiva hacia el aprendizaje continuo, estoy preparado para en
 <td width="50%">
 <h3 align="center">Modulo de dispensario l Odoo 16 community</h3>
 <div align="center">
-<a href="https://github.com/porrasadrian/odoo-16.0" target="_blank"><img src="https://imgur.com/8ZPZfg4" width="400" alt="Modulo de dispensario l Odoo 16 community"></a>
+<a href="https://github.com/porrasadrian/odoo-16.0" target="_blank"><img src="https://imgur.com/8ZPZfg4.jpg" width="400" alt="Modulo de dispensario l Odoo 16 community"></a>
 <p>
 <a href="https://github.com/porrasadrian/odoo-16.0" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
