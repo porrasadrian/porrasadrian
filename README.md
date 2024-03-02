@@ -52,6 +52,17 @@
   </a>
 </p>
 
+<h2>Sobre mi 🌴</h2>
+<!--Intro start-->
+
+<p align="left">
+Como desarrollador web con más de un año de experiencia, he dedicado este tiempo al crecimiento continuo de mis habilidades con el objetivo de abordar eficazmente los desafíos presentes en el campo. Actualmente, me encuentro enfocado en el desarrollo de módulos para el ERP de Odoo, consolidando así mi experiencia en este ámbito específico.
+
+A medida que avanzo en mi carrera, estoy comprometido no solo con la especialización en Odoo, sino también con la ampliación de mi horizonte en programación. Mi meta es no limitarme exclusivamente a Odoo, sino aprender a construir nuevos sistemas en base a los requerimientos específicos, siempre enfocándome en la implementación de código limpio y eficiente.
+
+Con una actitud proactiva hacia el aprendizaje continuo, estoy preparado para enfrentar nuevos retos y contribuir al desarrollo de soluciones innovadoras en el ámbito de la programación.
+</p>
+
 
 
 
