@@ -119,7 +119,7 @@ Con una actitud proactiva hacia el aprendizaje continuo, estoy preparado para en
 <td width="50%">
 <h3 align="center">Reglas de reordenamiento l Odoo 17 enterprise</h3>
 <div align="center">
-<a><img src="https://imgur.com/undefined.jpg" width="400" alt="Reglas de reordenamiento l Odoo 17 enterprise"></a>
+<a><img src="https://imgur.com/E0J4sOZ.jpg" width="400" alt="Reglas de reordenamiento l Odoo 17 enterprise"></a>
 <p>
 <a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
