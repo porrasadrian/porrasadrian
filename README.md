@@ -49,7 +49,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,html,css,postgres,mysql,bootstrap,css,github,atom,discord,notion,pycharm,ubuntu,vscode,linux&perline=14" />
-   [<img height="48px" width="48px" alt="Icone XML" src="https://github.com/porrasadrian/porrasadrian/blob/main/xml.png"/>](https://developer.mozilla.org/en-US/docs/Web/XML/XML_introduction)
   </a>
 </p>
 
