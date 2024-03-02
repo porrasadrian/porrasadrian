@@ -87,7 +87,7 @@ Con una actitud proactiva hacia el aprendizaje continuo, estoy preparado para en
                <br>
 <h3 align="center">Funcion create + Secuencias</h3>
 <div align="center">                                       
-<a><img src="https://imgur.com/a/3hIwv26.jpg" width="400" alt="Funcion create + Secuencias"></a>
+<a><img src="https://imgur.com/q2kyYs5.jpg" width="400" alt="Funcion create + Secuencias"></a>
 <br>
 <p>
 <a href="https://www.youtube.com/watch?v=cURNnmGdMxw" target="_blank">
